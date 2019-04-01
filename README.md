@@ -1,9 +1,14 @@
-# [start.ubuntu-mate.org](http://start.ubuntu-mate.org)
+# Página de inicio para As-Linux
 
-A personalised start page for Ubuntu MATE users
-on Firefox.
+Una página personalizada para el sistema operativo desarrollado por As-Card
 
-[![Build Status](https://travis-ci.org/ubuntu-mate/start.ubuntu-mate.org.svg?branch=master)](https://travis-ci.org/ubuntu-mate/start.ubuntu-mate.org)
+Esto es un fork de https://github.com/ubuntu-mate/start.ubuntu-mate.org
+
+Gracias a los desarrolladores por su trabajo y dedicación :smile: :
+
+* Martin Wimpress 
+* Luke Horwell
+* Fenrir
 
 ## Features
 
