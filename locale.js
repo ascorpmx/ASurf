@@ -11,7 +11,7 @@ var locales = {
     },
     "es": {
         "discover": "Descubrir",
-        "community": "Comunidad",
+        "community": "As-Corp",
         "shop": "Boutique",
         "chat": "Chat",
         "donate": "Like",
