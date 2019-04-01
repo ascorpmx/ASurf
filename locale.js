@@ -12,7 +12,7 @@ var locales = {
     "es": {
         "discover": "Descubrir",
         "community": "As-Corp",
-        "shop": "Boutique",
+        "shop": "Comprar",
         "chat": "Chat",
         "donate": "Like",
         "searchbox": "Buscar en la web",
