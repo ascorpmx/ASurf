@@ -14,7 +14,7 @@ var locales = {
         "community": "Comunidad",
         "shop": "Boutique",
         "chat": "Chat",
-        "donate": "Donar",
+        "donate": "Like",
         "searchbox": "Buscar en la web",
         "settings": "Preferencias",
         "darkmode": "Cambiar a modo nocturno"
