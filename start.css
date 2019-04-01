@@ -34,7 +34,7 @@ body {
   position: relative;
   top: -2px;
   border: 1px solid #E6E6E6;
-  background-color: #87a556;
+  background-color: #4284DA;
   color: white;
   height: 35px;
   width: 48px;
@@ -75,7 +75,7 @@ body {
 
 .link-box > a:hover {
   opacity: 0.7;
-  color: #87A556;
+  color: #4284DA;
   filter: grayscale(0%);
 }
 
@@ -109,7 +109,7 @@ input[type="radio"] {
 
 /* Dark Mode */
 body.dark {
-    background-color: #3C3A36;
+    background-color: #2F3A4B;
     color: #fff;
 }
 
